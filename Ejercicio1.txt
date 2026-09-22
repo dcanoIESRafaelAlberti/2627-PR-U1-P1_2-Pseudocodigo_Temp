@@ -1,6 +1,0 @@
-Inicio
-  Escribe "Introduce tu nombre: "
-  Lee nombre
-
-  Escribe "Hola, " + nombre
-Fin
